@@ -1,1 +1,3 @@
-Working native aot example for [CommandDotNet](https://github.com/bilal-fazlani/commanddotnet)
+- Working native aot example for [CommandDotNet](https://github.com/bilal-fazlani/commanddotnet)
+- See this issue [#501](https://github.com/bilal-fazlani/commanddotnet/issues/501)
+- Solved by this pull request [#502](https://github.com/bilal-fazlani/commanddotnet/pull/502)
