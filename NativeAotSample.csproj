@@ -8,10 +8,6 @@
         <PublishAot>true</PublishAot>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     </PropertyGroup>
-    
-    <ItemGroup>
-        <IlcArg Include="--rdxml:rd.xml" />
-    </ItemGroup>
 
     <ItemGroup>
       <Reference Include="CommandDotNet">
